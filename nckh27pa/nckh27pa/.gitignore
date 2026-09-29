@@ -1,0 +1,13 @@
+.gradle/
+.tools/
+.gradle-user-home/
+**/build/
+**/.build/
+local.properties
+*.jks
+*.keystore
+.env
+__pycache__/
+.worktrees/
+.DS_Store
+**/.DS_Store

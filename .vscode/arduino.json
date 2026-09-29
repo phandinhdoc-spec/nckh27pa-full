@@ -1,0 +1,7 @@
+{
+    "sketch": "esp32/v8/v8.ino",
+    "board": "esp32:esp32:esp32s3",
+    "configuration": "USBMode=hwcdc,CDCOnBoot=cdc",
+    "port": "/dev/tty.usbmodem1101",
+    "programmer": "esptool"
+}

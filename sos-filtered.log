@@ -1,0 +1,1232 @@
+09-19 16:06:41.168 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.188 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.209 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.229 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.250 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.270 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.291 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.311 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.331 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.352 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.372 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.392 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.413 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.433 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.454 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.474 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.494 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.515 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.535 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.555 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.576 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.590 I/TouchUtility(  792): notifyAppState error = NULL
+09-19 16:06:41.596 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.617 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.637 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.658 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.678 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.698 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.719 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.739 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.760 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.780 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.800 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.821 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.841 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.861 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.882 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.902 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.922 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.943 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.959 I/ActivityTaskManager( 1549): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=vn.nckh27pa.fallsafe/.MainActivity bnds=[254,973][427,1146] (has extras)} from uid 10170 from pid 2181 callingPackage com.miui.home
+09-19 16:06:41.962 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:41.963 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.964 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:41.979 W/libc    ( 2160): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:41.982 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:41.983 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:41.989 D/CoreBackPreview( 1549): Window{e0ab1d5 u0 Splash Screen vn.nckh27pa.fallsafe}: Setting back callback OnBackInvokedCallbackInfo{mCallback=android.window.IOnBackInvokedCallback$Stub$Proxy@62fdeb6, mPriority=0}
+09-19 16:06:41.993 I/ActivityManager( 1549): Start proc 11815:vn.nckh27pa.fallsafe/u0a378 for next-top-activity {vn.nckh27pa.fallsafe/vn.nckh27pa.fallsafe.MainActivity} caller=com.miui.home
+09-19 16:06:41.994 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:42.000 W/WindowManager( 1549): Changing focus from Window{120f713 u0 com.miui.home/com.miui.home.launcher.Launcher} to null displayId=0 Callers=com.android.server.wm.RootWindowContainer.updateFocusedWindowLocked:552 com.android.server.wm.WindowManagerService.updateFocusedWindowLocked:6566 com.android.server.wm.WindowManagerService.relayoutWindow:2799 com.android.server.wm.Session.relayout:280 
+09-19 16:06:42.004 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.005 D/VRI[fallsafe]( 2160): vri.reportNextDraw android.view.ViewRootImpl.performTraversals:3953 android.view.ViewRootImpl.doTraversal:2674 android.view.ViewRootImpl$TraversalRunnable.run:9867 android.view.Choreographer$CallbackRecord.run:1431 android.view.Choreographer$CallbackRecord.run:1439 
+09-19 16:06:42.021 D/VRI[fallsafe]( 2160): vri.reportDrawFinished syncSeqId=0 android.view.ViewRootImpl.lambda$createSyncIfNeeded$4$android-view-ViewRootImpl:4021 android.view.ViewRootImpl$$ExternalSyntheticLambda1.run:6 android.os.Handler.handleCallback:942 android.os.Handler.dispatchMessage:99 android.os.Looper.loopOnce:211 
+09-19 16:06:42.024 W/WindowManager( 1549): Execute app transition: mNextAppTransitionRequests=[TRANSIT_OPEN, TRANSIT_OPEN], mNextAppTransitionFlags=, displayId: 0 Callers=com.android.server.wm.ActivityRecord.onStartingWindowDrawn:7403 com.android.server.wm.WindowState.performShowLocked:5212 com.android.server.wm.WindowStateAnimator.commitFinishDrawingLocked:311 com.android.server.wm.DisplayContent.lambda$new$8$com-android-server-wm-DisplayContent:1064 com.android.server.wm.DisplayContent$$ExternalSyntheticLambda17.accept:4 
+09-19 16:06:42.024 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.027 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:42.028 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:42.032 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:42.033 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:42.036 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:42.039 D/nativeloader(11815): Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+09-19 16:06:42.043 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:42.044 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:42.045 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.046 W/System.err(11815): android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+09-19 16:06:42.048 W/System.err(11815): 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:582)
+09-19 16:06:42.049 W/libc    ( 2181): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:42.065 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.067 I/TouchUtility(  792): notifyAppState error = NULL
+09-19 16:06:42.085 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.106 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.126 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.146 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.167 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.187 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.207 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.227 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.248 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.268 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.288 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.309 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.329 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.349 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.370 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.390 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.410 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.431 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.451 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.471 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.492 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.512 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.533 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.539 D/nativeloader(11815): Load libframework-connectivity-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity.jar: ok
+09-19 16:06:42.553 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.554 D/nativeloader(11815): Load libforcedarkimpl.so using system ns (caller=/system_ext/framework/miui-framework.jar): ok
+09-19 16:06:42.574 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.594 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.614 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.630 I/hwcomposer(  774): [HWC] (0)fire a callback of refresh to SF[4]  
+09-19 16:06:42.635 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.655 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.675 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.695 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.716 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.736 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.757 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.775 D/nativeloader(11815): Load libpowerhalwrap_jni.so using system ns (caller=/system/framework/mediatek-framework.jar): ok
+09-19 16:06:42.777 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.785 D/libMEOW (11815): rebuild call chain: 0xb400007bb60c5580
+09-19 16:06:42.797 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.802 W/libc    (11815): Access denied finding property "ro.vendor.df.effect.conflict"
+09-19 16:06:42.795 W/kh27pa.fallsafe(11815): type=1400 audit(0.0:921995): avc: denied { read } for name="u:object_r:vendor_displayfeature_prop:s0" dev="tmpfs" ino=7803 scontext=u:r:untrusted_app:s0:c122,c257,c512,c768 tcontext=u:object_r:vendor_displayfeature_prop:s0 tclass=file permissive=0 app=cn.wps.moffice_eng
+09-19 16:06:42.817 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.838 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.858 W/libc    (11815): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:42.858 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.864 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:42.867 D/CoreBackPreview( 1549): Window{1251d97 u0 vn.nckh27pa.fallsafe/vn.nckh27pa.fallsafe.MainActivity}: Setting back callback OnBackInvokedCallbackInfo{mCallback=android.window.IOnBackInvokedCallback$Stub$Proxy@7700f6d, mPriority=0}
+09-19 16:06:42.867 D/libMEOW (11815): rebuild call chain: 0xb400007bb6125900
+09-19 16:06:42.879 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.899 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.919 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.940 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.960 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:42.980 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.001 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.021 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.040 I/kh27pa.fallsafe(11815): hiddenapi: Accessing hidden method Landroid/os/SystemProperties;->addChangeCallback(Ljava/lang/Runnable;)V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/compose/ui/platform/AndroidComposeView$Companion; (domain=app, TargetSdkVersion=36) using reflection: allowed
+09-19 16:06:43.041 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.061 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.082 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.102 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.122 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.143 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.163 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.183 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.204 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.224 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.244 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.265 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.271 W/ThreadPoolForeg( 1237): type=1400 audit(0.0:921996): avc: denied { write } for name="traced_producer" dev="tmpfs" ino=16715 scontext=u:r:gmscore_app:s0:c512,c768 tcontext=u:object_r:traced_producer_socket:s0 tclass=sock_file permissive=0 app=com.viettel.appviettel
+09-19 16:06:43.285 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.305 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.325 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.346 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.366 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.386 E/libPowerHal(  792): error : 2, No such file or directory
+09-19 16:06:43.386 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.387 E/libPowerHal(  792): error : 2, No such file or directory
+09-19 16:06:43.407 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.420 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:43.423 W/WindowManager( 1549): Changing focus from null to Window{1251d97 u0 vn.nckh27pa.fallsafe/vn.nckh27pa.fallsafe.MainActivity} displayId=0 Callers=com.android.server.wm.RootWindowContainer.updateFocusedWindowLocked:552 com.android.server.wm.WindowManagerService.updateFocusedWindowLocked:6566 com.android.server.wm.WindowManagerService.relayoutWindow:2799 com.android.server.wm.Session.relayout:280 
+09-19 16:06:43.424 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:43.425 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:43.427 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.436 D/libMEOW (11815): rebuild call chain: 0xb400007bb5af5440
+09-19 16:06:43.447 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.449 W/libc    (11815): Access denied finding property "vendor.migl.debug"
+09-19 16:06:43.468 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.484 D/VRI[MainActivity](11815): vri.reportNextDraw android.view.ViewRootImpl.performTraversals:3953 android.view.ViewRootImpl.doTraversal:2674 android.view.ViewRootImpl$TraversalRunnable.run:9867 android.view.Choreographer$CallbackRecord.run:1431 android.view.Choreographer$CallbackRecord.run:1439 
+09-19 16:06:43.488 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.508 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.529 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.532 W/libc    (11815): Access denied finding property "ro.vendor.magt.mtk_magt_support"
+09-19 16:06:43.535 W/libc    (11815): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:43.549 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.569 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.576 W/libc    (11815): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:43.576 W/libc    (11815): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:43.590 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.594 D/VRI[MainActivity](11815): vri.reportDrawFinished syncSeqId=0 android.view.ViewRootImpl.lambda$createSyncIfNeeded$4$android-view-ViewRootImpl:4021 android.view.ViewRootImpl$$ExternalSyntheticLambda1.run:6 android.os.Handler.handleCallback:942 android.os.Handler.dispatchMessage:99 android.os.Looper.loopOnce:211 
+09-19 16:06:43.601 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:43.610 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.618 D/CoreBackPreview( 1549): Window{e0ab1d5 u0 Splash Screen vn.nckh27pa.fallsafe}: Setting back callback null
+09-19 16:06:43.620 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:43.630 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.632 W/libc    (11815): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:43.651 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.667 W/libc    (  865): Access denied finding property "ro.vendor.display.iris_x7.support"
+09-19 16:06:43.671 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.691 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.712 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.732 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.752 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.773 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.779 D/WindowManager( 1549): setParent old=ActivityRecord{e755cf4 u0 vn.nckh27pa.fallsafe/.MainActivity} t10004},new=null,this window=Window{e0ab1d5 u0 Splash Screen vn.nckh27pa.fallsafe},callers=com.android.server.wm.WindowContainer.removeChild:832 com.android.server.wm.ActivityRecord.removeChild:4964 com.android.server.wm.ActivityRecord.removeChild:438 com.android.server.wm.WindowContainer.removeImmediately:893 com.android.server.wm.WindowState.removeImmediately:2707 com.android.server.wm.WindowState.destroySurface:3927 
+09-19 16:06:43.793 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.813 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.834 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.854 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.874 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.894 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.915 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.935 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.956 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.976 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:43.996 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.014 I/hwcomposer(  774): [HWC] (0)fire a callback of refresh to SF[4]  
+09-19 16:06:44.017 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.037 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.057 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.077 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.098 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.118 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.138 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.159 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.179 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.199 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.220 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.240 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.260 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.280 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.301 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.321 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.341 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.362 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.382 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.402 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.423 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.443 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.463 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.483 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.504 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.524 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.523 W/PerfettoTrace(31401): type=1400 audit(0.0:921997): avc: denied { write } for name="traced_producer" dev="tmpfs" ino=16715 scontext=u:r:theme:s0:c512,c768 tcontext=u:object_r:traced_producer_socket:s0 tclass=sock_file permissive=0
+09-19 16:06:44.544 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.565 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.585 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.605 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.626 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.646 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.666 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.687 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.707 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.728 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.749 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.769 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.790 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.810 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.830 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.851 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.871 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.891 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.912 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.932 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.953 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.973 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:44.994 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.014 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.035 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.056 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.076 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.096 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.117 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.137 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.157 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.178 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.198 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.218 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.238 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.259 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.279 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.299 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.320 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.340 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.360 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.381 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.401 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.422 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.442 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.462 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.483 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.503 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.523 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.544 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.564 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.585 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.589 I/TouchUtility(  792): notifyAppState error = NULL
+09-19 16:06:45.605 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.625 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.645 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.666 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.686 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.706 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.727 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.747 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.768 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.788 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.809 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.829 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.850 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.870 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.890 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.911 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.931 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.952 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.972 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:45.993 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.013 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.034 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.054 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.075 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.096 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.110 D/FiveGDataOptimize( 2157): isAnyCallOngoing callOngoing= false
+09-19 16:06:46.117 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.134 I/hwcomposer(  774): [HWC] (0)fire a callback of refresh to SF[4]  
+09-19 16:06:46.137 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.158 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.179 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.199 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.220 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.241 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.262 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.284 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.305 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.325 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.346 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.367 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.388 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.409 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.429 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.450 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.471 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.491 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.511 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.532 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.552 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.572 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.593 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.613 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.634 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.655 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.676 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.696 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.717 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.737 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.758 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.778 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.798 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.819 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.839 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.860 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.880 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.900 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.921 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.941 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.962 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:46.982 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.002 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.023 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.043 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.063 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.083 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.104 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.124 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.144 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.165 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.185 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.206 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.226 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.247 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.267 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.287 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.302 W/BatteryExternalStatsWorker( 1549): error reading Bluetooth stats: 11
+09-19 16:06:47.308 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.329 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.349 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.370 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.391 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.412 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.433 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.453 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.473 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.494 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.515 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.535 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.556 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.576 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.597 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.618 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.639 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.660 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.680 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.701 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.722 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.743 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.763 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.784 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.804 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.825 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.845 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.866 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.886 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.907 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.928 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.948 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.968 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:47.989 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.010 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.030 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.051 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.071 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.092 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.113 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.134 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.154 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.174 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.195 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.215 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.235 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.256 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.276 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.296 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.317 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.337 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.357 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.378 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.398 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.418 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.439 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.459 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.479 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.500 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.520 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.541 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.561 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.582 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.602 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.622 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.642 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.663 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.683 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.703 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.724 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.744 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.764 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.785 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.805 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.826 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.847 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.867 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.888 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.908 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.929 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.949 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.970 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:48.991 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.011 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.032 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.053 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.073 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.094 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.115 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.135 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.157 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.177 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.198 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.218 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.239 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.259 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.280 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.300 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.321 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.341 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.362 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.382 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.403 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.423 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.444 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.465 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.485 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.497 I/FallSafe/Location(11815): playServicesAvailability=0
+09-19 16:06:49.502 I/FallSafe/Location(11815): playServicesAvailability=0
+09-19 16:06:49.506 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.522 I/FallSafe/CALL(11815): contactId=70c2c956-6566-4f8b-86bc-b19d4092ed3a status=SIM_CALL:PERMISSION_MISSING
+09-19 16:06:49.524 I/FallSafe/CALL(11815): contactId=null status=VOICE_CALL:PERMISSION_MISSING
+09-19 16:06:49.524 I/FallSafe/SOS(11815): contactId=null status=eventId=e5002107-7661-4f18-8b6e-736d78f443f2 step=LOCATION status=UNAVAILABLE elapsedMs=10 source=none accuracyM=none calling=false messaging=false location=true detail=Chưa xác định được vị trí.
+09-19 16:06:49.524 I/FallSafe/SOS(11815): contactId=null status=eventId=e5002107-7661-4f18-8b6e-736d78f443f2 step=SMS status=PERMISSION_MISSING elapsedMs=10 source=none accuracyM=none calling=false messaging=false location=true detail=Chưa cho phép gửi tin nhắn; hãy bật quyền này trong phần thiết lập.
+09-19 16:06:49.524 I/FallSafe/SOS(11815): contactId=null status=eventId=e5002107-7661-4f18-8b6e-736d78f443f2 step=VOICE_CALL status=PERMISSION_MISSING elapsedMs=10 source=none accuracyM=none calling=false messaging=false location=true detail=Chưa cho phép gọi điện; không thể tự động gọi. Hãy bật quyền trong phần thiết lập.
+09-19 16:06:49.524 I/FallSafe/SOS(11815): contactId=null status=eventId=e5002107-7661-4f18-8b6e-736d78f443f2 step=SIM_CALL status=PERMISSION_MISSING elapsedMs=10 source=none accuracyM=none calling=false messaging=false location=true detail=Chưa cho phép gọi điện; không thể tự động gọi. Hãy bật quyền trong phần thiết lập.
+09-19 16:06:49.525 I/FallSafe/SOS(11815): contactId=null status=eventId=e5002107-7661-4f18-8b6e-736d78f443f2 step=MAP_LINK status=SKIPPED elapsedMs=11 source=none accuracyM=none calling=false messaging=false location=true detail=Không có vị trí để tạo liên kết bản đồ.
+09-19 16:06:49.526 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.546 I/hwcomposer(  774): [HWC] (0)fire a callback of refresh to SF[4]  
+09-19 16:06:49.547 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.567 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.587 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.608 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.628 W/System  ( 1549): A resource failed to call release. 
+09-19 16:06:49.628 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.648 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.669 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.671 I/FallSafe/Location(11815): playServicesAvailability=0
+09-19 16:06:49.682 I/FusedLocation( 5772): stationary throttling disengaged [CONTEXT service_id=6 ]
+09-19 16:06:49.689 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.701 D/LocationManagerService( 1549): [0]gps provider added registration from 10160/com.google.android.gms[fused_location_provider]/3A90F562 -> Request[@0 HIGH_ACCURACY, hiddenFromAppOps, WorkSource{10378 vn.nckh27pa.fallsafe}] permissionLevel: 2 permitted: true
+09-19 16:06:49.703 D/LocationManagerService( 1549): registration onActive from uid: 10160 package: com.google.android.gms
+09-19 16:06:49.704 D/GnssLocationProvider( 1549): setRequest ProviderRequest[@0, HIGH_ACCURACY, WorkSource{10378 vn.nckh27pa.fallsafe}]
+09-19 16:06:49.704 D/GnssLocationProvider( 1549): startNavigating
+09-19 16:06:49.704 D/android.hardware.gnss-service.mediatek(  772): hal2mnl_gps_set_position_mode: set report location time interval is 1.000000 s
+09-19 16:06:49.709 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.714 D/mnl_common( 1029): mnl_utl_load_property: dev_dsp/dev_dsp2/dev_gps : /dev/stpgps /dev/stpgps2 UseCallback,init_speed/link_speed: 38400 921600
+09-19 16:06:49.707 W/mnld    ( 1029): type=1400 audit(0.0:921998): avc: denied { read } for name="u:object_r:default_prop:s0" dev="tmpfs" ino=7524 scontext=u:r:mnld:s0 tcontext=u:object_r:default_prop:s0 tclass=file permissive=0
+09-19 16:06:49.714 W/libc    ( 1029): Access denied finding property "ro.logsystem.usertype"
+09-19 16:06:49.720 W/Looper  ( 5772): Looper already prepared for this thread with a different value for the LOOPER_PREPARE_ALLOW_NON_CALLBACKS option.
+09-19 16:06:49.722 E/JavaBinder( 1549): *** Uncaught remote exception!  (Exceptions are not yet supported across processes.)
+09-19 16:06:49.722 E/JavaBinder( 1549): java.lang.RuntimeException: android.os.RemoteException: Couldn't get targetSdkVersion for package com.android.accelerometergraph
+09-19 16:06:49.722 E/JavaBinder( 1549): 	at android.os.Parcel.writeException(Parcel.java:2796)
+09-19 16:06:49.722 E/JavaBinder( 1549): Caused by: android.os.RemoteException: Couldn't get targetSdkVersion for package com.android.accelerometergraph
+09-19 16:06:49.729 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.745 D/mpe     ( 1029): mnl_mpe_thread_init: register mpe cb 0,gMpeCallBackFunc= 0x56c304b2d0,mtk_gps_mnl_trigger_mpe=0x56c304b2d0
+09-19 16:06:49.745 D/gps_controlller( 1029): linux_gps_init: dsp port (/dev/stpgps),nmea port (UseCallback),nmea dbg port (/dev/ttygserial),dbg_file_name (/data/vendor/gps/gpsdebug.log),DebugType (16),nv_file_name (/data/vendor/gps/mtkgps.dat), mtk_gps_log_hide:0, socket_port:1048575, bitmap_nfw_ctrl:0x3,  RfPathLossDb_Ap:0.00, log_mode_bitmap:0x1
+09-19 16:06:49.750 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.770 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.778 I/hwcomposer(  774): [HWC] (0)fire a callback of refresh to SF[4]  
+09-19 16:06:49.790 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.811 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.831 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.851 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.872 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.893 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.914 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.934 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.954 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.966 D/gps_controlller( 1029): mtk_gps_sys_gps_mnl_callback: MTK_GPS_MSG_FIX_READY,GET_RTC_FAIL
+09-19 16:06:49.966 D/gps_controlller( 1029): mtk_gps_sys_agps_disaptcher_callback: MNL ready and assist req:0
+09-19 16:06:49.966 D/gps_controlller( 1029): mtk_gps_sys_agps_disaptcher_callback: MNL NTP/NLP request:0
+09-19 16:06:49.966 D/gps_controlller( 1029): mtk_gps_sys_agps_disaptcher_callback: MNL NTP/NLP request:2
+09-19 16:06:49.966 D/gps_controlller( 1029): mtk_gps_sys_agps_disaptcher_callback: Call nlp_server request
+09-19 16:06:49.973 I/GnssLocationProvider( 1549): is Ni WhiteList Operator ? false
+09-19 16:06:49.974 D/MNLD    ( 1029): mnld_nfw_mnl2agps_location_sync: ret = 51
+09-19 16:06:49.974 D/MNLD    ( 1029): mnld_nfw_mnl2agps_location_sync: mnl2agps_location_sync success
+09-19 16:06:49.975 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.976 I/GnssLocationProvider( 1549): GNSS HAL Requesting location updates from network provider for 10000 millis.
+09-19 16:06:49.979 D/LocationManagerService( 1549): [0]network provider added registration from 1000/android[GnssService]/7497FD05 -> Request[@+1s0ms LOW_POWER, duration=+10s0ms, maxUpdates=1, WorkSource{1000 android}] permissionLevel: 2 permitted: true
+09-19 16:06:49.981 D/LocationManagerService( 1549): registration onActive from uid: 1000 package: android
+09-19 16:06:49.994 D/LocationManagerService( 1549): incoming location: Location[network hAcc=100 et=+19d6h42m50s332ms vAcc=68 sAcc=??? bAcc=???]
+09-19 16:06:49.996 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:49.998 D/LocationManagerService( 1549): registration onInactive from uid: 1000 package: android
+09-19 16:06:49.998 D/LocationManagerService( 1549): [0]network provider removed registration from 1000/android[GnssService]/7497FD05
+09-19 16:06:50.000 D/MNLD    ( 1029): mnld_nfw_mnl2agps_location_sync: ret = 51
+09-19 16:06:50.000 D/MNLD    ( 1029): mnld_nfw_mnl2agps_location_sync: mnl2agps_location_sync success
+09-19 16:06:50.016 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.036 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.057 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.077 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.097 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.118 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.139 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.159 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.180 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.200 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.222 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.242 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.263 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.278 I/hwcomposer(  774): [HWC] (0)fire a callback of refresh to SF[4]  
+09-19 16:06:50.283 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.304 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.325 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.345 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.366 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.386 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.407 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.427 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.448 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.468 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.471 D/gps_controlller( 1029): mtk_gps_sys_gps_mnl_callback: MTK_GPS_MSG_FIX_READY,GET_RTC_FAIL
+09-19 16:06:50.489 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.509 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.530 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.550 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.571 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.592 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.594 I/TouchUtility(  792): notifyAppState error = NULL
+09-19 16:06:50.612 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.633 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.653 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.674 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.695 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.715 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.736 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.757 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.777 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.798 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.819 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.840 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.860 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.881 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.901 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.922 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.942 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.963 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:50.980 D/gps_controlller( 1029): mtk_gps_sys_gps_mnl_callback: MTK_GPS_MSG_FIX_READY,GET_RTC_FAIL
+09-19 16:06:50.983 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.004 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.024 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.045 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.065 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.086 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.106 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.126 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.142 D/FiveGDataOptimize( 2157): isAnyCallOngoing callOngoing= false
+09-19 16:06:51.147 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.167 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.187 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.208 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.228 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.248 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.269 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.289 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.309 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.330 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.350 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.371 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.391 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.411 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.431 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.452 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.461 D/gps_controlller( 1029): mtk_gps_sys_gps_mnl_callback: MTK_GPS_MSG_FIX_READY,GET_RTC_FAIL
+09-19 16:06:51.472 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.493 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.513 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.534 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.555 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.575 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.596 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.616 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.637 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.658 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.678 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.699 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.719 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.740 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.760 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.781 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.802 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.822 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.842 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.863 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.883 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.903 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.924 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.944 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.960 D/gps_controlller( 1029): mtk_gps_sys_gps_mnl_callback: MTK_GPS_MSG_FIX_READY,GET_RTC_FAIL
+09-19 16:06:51.964 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:51.985 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.005 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.025 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.046 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.066 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.086 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.107 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.127 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.147 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.168 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.188 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.208 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.229 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.249 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.270 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.290 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.311 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.332 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.352 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.373 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.393 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.414 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.435 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.455 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.476 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.479 D/gps_controlller( 1029): mtk_gps_sys_gps_mnl_callback: MTK_GPS_MSG_FIX_READY,GET_RTC_FAIL
+09-19 16:06:52.496 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.517 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.537 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.557 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.578 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.598 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.618 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.639 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.659 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.679 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.700 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.720 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.740 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.760 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.781 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.801 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.822 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.842 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.862 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.883 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.903 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.923 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.944 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.964 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:52.966 D/gps_controlller( 1029): mtk_gps_sys_gps_mnl_callback: MTK_GPS_MSG_FIX_READY,GET_RTC_FAIL
+09-19 16:06:52.985 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.006 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.026 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.047 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.067 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.088 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.109 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.130 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.151 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.172 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.192 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.213 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.233 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.254 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.275 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.296 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.317 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.338 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.358 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.379 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.399 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.420 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.441 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.441 D/LocationManagerService( 1549): incoming location: Location[network hAcc=54 et=+19d6h42m53s143ms vAcc=11 sAcc=??? bAcc=???]
+09-19 16:06:53.443 D/MNLD    ( 1029): mnld_nfw_mnl2agps_location_sync: ret = 51
+09-19 16:06:53.443 D/MNLD    ( 1029): mnld_nfw_mnl2agps_location_sync: mnl2agps_location_sync success
+09-19 16:06:53.453 I/FusedLocation( 5772): (REDACTED) location delivery to %s blocked - too close
+09-19 16:06:53.455 D/LocationManagerService( 1549): incoming location: Location[fused hAcc=54 et=+19d6h42m53s143ms vAcc=11 sAcc=2 bAcc=45]
+09-19 16:06:53.456 I/FallSafe/Location(11815): source=FUSED accuracy=54.464 age=653 cause=none
+09-19 16:06:53.457 I/FallSafe/Location(11815): source=FUSED accuracy=54.464 age=654 cause=null
+09-19 16:06:53.458 I/FusedLocation( 5772): (REDACTED) location delivery to %s blocked - too close
+09-19 16:06:53.460 I/FusedLocation( 5772): (REDACTED) location delivery to %s blocked - too fast
+09-19 16:06:53.461 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.461 I/FusedLocation( 5772): (REDACTED) location delivery to %s blocked - too close
+09-19 16:06:53.472 I/FusedLocation( 5772): (REDACTED) stationary throttling engaged @%s
+09-19 16:06:53.480 D/LocationManagerService( 1549): registration onInactive from uid: 10160 package: com.google.android.gms
+09-19 16:06:53.481 D/LocationManagerService( 1549): [0]gps provider removed registration from 10160/com.google.android.gms[fused_location_provider]/3A90F562
+09-19 16:06:53.481 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.482 D/GnssLocationProvider( 1549): setRequest ProviderRequest[OFF]
+09-19 16:06:53.484 W/AlarmManager( 1549): Unrecognized alarm listener com.android.server.location.gnss.GnssLocationProvider$$ExternalSyntheticLambda22@38a3139
+09-19 16:06:53.484 W/AlarmManager( 1549): Unrecognized alarm listener com.android.server.location.gnss.GnssLocationProvider$$ExternalSyntheticLambda21@7ec837e
+09-19 16:06:53.501 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.522 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.543 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.562 I/hwcomposer(  774): [HWC] (0)fire a callback of refresh to SF[4]  
+09-19 16:06:53.563 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.584 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.604 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.625 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.646 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.667 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.687 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.708 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.728 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.749 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.769 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.791 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.794 I/hwcomposer(  774): [HWC] (0)fire a callback of refresh to SF[4]  
+09-19 16:06:53.811 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.832 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.853 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.873 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.894 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.915 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.935 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.956 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.976 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:53.997 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.017 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.037 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.058 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.078 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.098 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.119 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.139 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.159 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.180 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.200 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.221 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.241 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.261 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.282 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.302 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.322 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.342 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.363 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.384 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.404 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.425 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.446 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.466 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.487 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.495 W/PerfettoTrace( 5772): type=1400 audit(0.0:921999): avc: denied { write } for name="traced_producer" dev="tmpfs" ino=16715 scontext=u:r:gmscore_app:s0:c512,c768 tcontext=u:object_r:traced_producer_socket:s0 tclass=sock_file permissive=0 app=com.google.android.gms
+09-19 16:06:54.508 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.528 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.549 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.570 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.590 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.587 W/pool-14-thread-( 9156): type=1400 audit(0.0:922000): avc: denied { read } for name="tcp" dev="proc" ino=4026532233 scontext=u:r:untrusted_app:s0:c61,c257,c512,c768 tcontext=u:object_r:proc_net_tcp_udp:s0 tclass=file permissive=0 app=com.viettel.appviettel
+09-19 16:06:54.611 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.631 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.652 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.672 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.693 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.714 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.734 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.755 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.775 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.796 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.817 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.837 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.858 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.878 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.893 I/beanpodkeymaster(  603): Exit BeanpodKeymaster AttestKey, cerlen=4, error=0
+09-19 16:06:54.899 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.920 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.940 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.961 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:54.981 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.002 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.023 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.043 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.064 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.085 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.105 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.126 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.147 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.167 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.188 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.194 I/beanpodkeymaster(  603): Exit BeanpodKeymaster AttestKey, cerlen=4, error=0
+09-19 16:06:55.194 E/keystore2(  602): keystore2::gc: Error trying to delete blob entry. In process_one_key: Trying to invalidate key.
+09-19 16:06:55.194 E/keystore2(  602):     1: Error::Km(ErrorCode(-100))
+09-19 16:06:55.208 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.225 E/keystore2(  602): keystore2::gc: Error trying to delete blob entry. In process_one_key: Trying to invalidate key.
+09-19 16:06:55.225 E/keystore2(  602):     1: Error::Km(ErrorCode(-100))
+09-19 16:06:55.229 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.249 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.269 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.290 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.310 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.331 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.351 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.371 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.392 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.412 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.432 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.453 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.473 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.494 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.514 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.534 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.555 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.575 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.595 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.616 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.636 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.656 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.677 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.697 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.717 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.738 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.758 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.778 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.799 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.819 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.839 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.860 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.880 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.900 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.921 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.941 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.961 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:55.981 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.002 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.022 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.043 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.063 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.083 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.104 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.124 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.144 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.154 D/FiveGDataOptimize( 2157): isAnyCallOngoing callOngoing= false
+09-19 16:06:56.165 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.185 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.205 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.226 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.246 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.266 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.287 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.307 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.327 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.347 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.368 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.388 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.408 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.429 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.449 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.470 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.490 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.510 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.530 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.551 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.571 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.591 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.612 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.632 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.652 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.673 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.693 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.713 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.734 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.754 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.774 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.795 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.815 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.835 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.856 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.876 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.896 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.917 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.937 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.958 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.978 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:56.999 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.019 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.039 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.060 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.080 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.101 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.121 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.141 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.162 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.182 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.203 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.223 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.243 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.264 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.284 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.304 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.325 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.345 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.366 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.386 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.407 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.427 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.448 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.468 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.488 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.509 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.529 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.550 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.570 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.590 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.611 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.631 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.651 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.671 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.692 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.712 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.732 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.753 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.773 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.793 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.814 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.834 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.854 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.864 W/libc    ( 3990): Access denied finding property "persist.vendor.battery.erp"
+09-19 16:06:57.875 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.895 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.915 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.936 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.956 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.958 I/hwcomposer(  774): [HWC] (0)fire a callback of refresh to SF[4]  
+09-19 16:06:57.976 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:57.997 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.017 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.034 E/SELinux (  522): avc:  denied  { find } for interface=vendor.xiaomi.hardware.micharge::IMiCharge sid=u:r:system_app:s0 pid=3990 scontext=u:r:system_app:s0 tcontext=u:object_r:default_android_hwservice:s0 tclass=hwservice_manager permissive=0
+09-19 16:06:58.034 E/IMiCharge( 3990): MiCharge transact failed. java.util.NoSuchElementException
+09-19 16:06:58.036 E/SELinux (  522): avc:  denied  { find } for interface=vendor.xiaomi.hardware.micharge::IMiCharge sid=u:r:system_app:s0 pid=3990 scontext=u:r:system_app:s0 tcontext=u:object_r:default_android_hwservice:s0 tclass=hwservice_manager permissive=0
+09-19 16:06:58.036 E/IMiCharge( 3990): MiCharge transact failed. java.util.NoSuchElementException
+09-19 16:06:58.037 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.040 E/SELinux (  522): avc:  denied  { find } for interface=vendor.xiaomi.hardware.micharge::IMiCharge sid=u:r:system_app:s0 pid=3990 scontext=u:r:system_app:s0 tcontext=u:object_r:default_android_hwservice:s0 tclass=hwservice_manager permissive=0
+09-19 16:06:58.040 E/IMiCharge( 3990): MiCharge transact failed. java.util.NoSuchElementException
+09-19 16:06:58.042 E/SELinux (  522): avc:  denied  { find } for interface=vendor.xiaomi.hardware.micharge::IMiCharge sid=u:r:system_app:s0 pid=3990 scontext=u:r:system_app:s0 tcontext=u:object_r:default_android_hwservice:s0 tclass=hwservice_manager permissive=0
+09-19 16:06:58.043 E/IMiCharge( 3990): MiCharge transact failed. java.util.NoSuchElementException
+09-19 16:06:58.044 E/SELinux (  522): avc:  denied  { find } for interface=vendor.xiaomi.hardware.micharge::IMiCharge sid=u:r:system_app:s0 pid=3990 scontext=u:r:system_app:s0 tcontext=u:object_r:default_android_hwservice:s0 tclass=hwservice_manager permissive=0
+09-19 16:06:58.044 E/IMiCharge( 3990): MiCharge transact failed. java.util.NoSuchElementException
+09-19 16:06:58.058 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.078 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.098 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.119 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.139 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.160 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.180 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.200 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.221 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.241 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.261 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.282 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.302 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.322 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.343 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.363 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.383 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.404 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.424 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.444 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.465 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.485 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.495 W/pool-14-thread-( 9156): type=1400 audit(0.0:922001): avc: denied { search } for name="asound" dev="proc" ino=4026532076 scontext=u:r:untrusted_app:s0:c61,c257,c512,c768 tcontext=u:object_r:proc_asound:s0 tclass=dir permissive=0 app=com.viettel.appviettel
+09-19 16:06:58.505 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.526 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.527 W/getenforce(11910): type=1400 audit(0.0:922002): avc: denied { read } for name="enforce" dev="selinuxfs" ino=4 scontext=u:r:untrusted_app:s0:c61,c257,c512,c768 tcontext=u:object_r:selinuxfs:s0 tclass=file permissive=0 app=com.viettel.appviettel
+09-19 16:06:58.546 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.566 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.587 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.607 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.627 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.648 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.668 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.688 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.709 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.729 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.750 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.770 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.790 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.811 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.831 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.852 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.872 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.893 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.913 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.933 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.954 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.974 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:58.994 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.015 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.035 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.056 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.076 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.096 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.117 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.137 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.157 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.178 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.198 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.218 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.239 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.259 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.279 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.300 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.320 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.340 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.361 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.381 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.401 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.407 W/ThreadPoolForeg( 5772): type=1400 audit(0.0:922003): avc: denied { write } for name="traced_producer" dev="tmpfs" ino=16715 scontext=u:r:gmscore_app:s0:c512,c768 tcontext=u:object_r:traced_producer_socket:s0 tclass=sock_file permissive=0 app=com.google.android.gms
+09-19 16:06:59.421 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.442 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.462 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.483 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.503 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.523 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.544 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.564 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.584 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.605 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.625 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.646 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.666 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.671 W/pool-14-thread-( 9156): type=1400 audit(0.0:922004): avc: denied { ioctl } for path="/data/app/~~v5qqK1nGKt4ipvouMphQtw==/com.ezviz-I1sF8P_4aSyGcjMsF6g_VA==/base.apk" dev="incremental-fs" ino=382086 ioctlcmd=0x6722 scontext=u:r:untrusted_app:s0:c61,c257,c512,c768 tcontext=u:object_r:apk_data_file:s0 tclass=file permissive=0 app=com.viettel.appviettel
+09-19 16:06:59.686 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.683 W/pool-14-thread-( 9156): type=1400 audit(0.0:922005): avc: denied { ioctl } for path="/data/app/~~WAKshGjVg8PYtqlKvrnTCQ==/com.cxinventor.file.explorer-j7uAEwORCGA58kFcD69e1w==/base.apk" dev="incremental-fs" ino=959485 ioctlcmd=0x6722 scontext=u:r:untrusted_app:s0:c61,c257,c512,c768 tcontext=u:object_r:apk_data_file:s0 tclass=file permissive=0 app=com.viettel.appviettel
+09-19 16:06:59.707 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.727 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.748 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.768 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.789 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.809 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.830 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.850 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.870 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.891 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.911 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.931 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.952 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.972 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:06:59.979 W/pool-14-thread-( 9156): type=1400 audit(0.0:922006): avc: denied { ioctl } for path="/data/app/~~vfhmvEpjAlqtLb8CH7VyQw==/com.canva.editor-02u524IZurUrBkBKvTAYTQ==/base.apk" dev="incremental-fs" ino=1007370 ioctlcmd=0x6722 scontext=u:r:untrusted_app:s0:c61,c257,c512,c768 tcontext=u:object_r:apk_data_file:s0 tclass=file permissive=0 app=com.viettel.appviettel
+09-19 16:06:59.979 W/pool-14-thread-( 9156): type=1400 audit(0.0:922007): avc: denied { ioctl } for path="/data/app/~~vfhmvEpjAlqtLb8CH7VyQw==/com.canva.editor-02u524IZurUrBkBKvTAYTQ==/split_config.xxhdpi.apk" dev="incremental-fs" ino=962184 ioctlcmd=0x6722 scontext=u:r:untrusted_app:s0:c61,c257,c512,c768 tcontext=u:object_r:apk_data_file:s0 tclass=file permissive=0 app=com.viettel.appviettel
+09-19 16:06:59.993 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.003 E/ReflectUtils( 2160): java.lang.reflect.InvocationTargetException
+09-19 16:07:00.003 E/ReflectUtils( 2160): 	at android.os.Handler.handleCallback(Handler.java:942)
+09-19 16:07:00.003 E/ReflectUtils( 2160): 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:582)
+09-19 16:07:00.003 E/ReflectUtils( 2160): Caused by: android.content.pm.PackageManager$NameNotFoundException: com.mi.health
+09-19 16:07:00.013 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.033 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.054 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.074 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.094 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.115 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.130 I/hwcomposer(  774): [HWC] (0)fire a callback of refresh to SF[4]  
+09-19 16:07:00.135 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.155 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.176 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.196 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.216 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.237 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.257 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.277 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.284 W/libc    ( 9156): Access denied finding property "ro.boot.serialno"
+09-19 16:07:00.284 W/libc    ( 9156): Access denied finding property "ro.bootimage.build.fingerprint"
+09-19 16:07:00.285 W/libc    ( 9156): Access denied finding property "ro.serialno"
+09-19 16:07:00.298 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.318 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.339 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.359 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.380 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.400 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.420 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.441 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.461 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.469 I/WVCdm   (  767): [app][com.viettel.appviettel] calling virtual Return<void> wvdrm::hardware::drm::V1_4::widevine::WVDrmFactory::createPlugin(const hidl_array<uint8_t, 16> &, const android::hardware::hidl_string &, android::hardware::drm::V1_4::IDrmFactory::createPlugin_cb)
+09-19 16:07:00.481 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.502 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.523 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.543 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.563 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.584 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.604 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.624 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.645 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.665 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.685 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.706 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.726 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.746 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.767 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.787 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.807 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.828 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.848 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.868 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.889 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.909 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.913 I/WVCdm   (  767): [app][com.viettel.appviettel] calling virtual Return<void> wvdrm::hardware::drm::V1_4::widevine::WVDrmFactory::createPlugin(const hidl_array<uint8_t, 16> &, const android::hardware::hidl_string &, android::hardware::drm::V1_4::IDrmFactory::createPlugin_cb)
+09-19 16:07:00.930 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.950 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.971 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:00.991 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.002 D/BtGatt.ScanManager(24115): handleBalancedTimeout() called with: client = [ [ScanClient scanModeApp 1 scanModeUsed 1 [appScanStats com.google.uid.shared:10160]]]
+09-19 16:07:01.011 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.032 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.052 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.072 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.093 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.113 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.133 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.154 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.168 D/FiveGDataOptimize( 2157): isAnyCallOngoing callOngoing= false
+09-19 16:07:01.174 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.194 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.215 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.235 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.255 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.276 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.296 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.317 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.337 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.358 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.378 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.399 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.419 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.439 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.459 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.480 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.500 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.520 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.541 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.561 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.582 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.603 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.623 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.644 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.665 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.685 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.706 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.726 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.747 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.769 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.789 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.810 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.831 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.852 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.872 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.893 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.913 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.934 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.955 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.976 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:01.996 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.017 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.037 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.058 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.078 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.099 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.119 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.140 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.160 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.181 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.201 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.222 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.243 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.263 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.284 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.304 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.325 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.345 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.366 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.386 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.407 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.427 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.448 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.468 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.489 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.509 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.529 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.550 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.570 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.591 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.611 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.631 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.652 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.672 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.692 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.713 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+09-19 16:07:02.733 D/C2MtkBufferManager(  779): over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread

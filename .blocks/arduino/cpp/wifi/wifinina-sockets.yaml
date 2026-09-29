@@ -1,0 +1,420 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/linucs/blocks-community-catalog/refs/heads/main/schema/block-catalog_v1.schema.json
+
+# =============================================================================
+# WiFiNINA sockets — TCP client, TCP server and UDP.
+# Uses single global instances: _client (WiFiClient), _server (WiFiServer),
+# _udp (WiFiUDP). Requires an active WiFi connection (see wifinina.yaml).
+# Compatible boards: MKR WiFi 1010, MKR VIDOR 4000, Uno WiFi Rev2, Nano 33 IoT.
+# =============================================================================
+
+id: wifinina-tcp-client
+category: "WiFi::TCP Client"
+colour: "#1565C0"
+docs:
+  library: "https://www.arduino.cc/reference/en/libraries/wifinina/"
+implementations:
+  - runtime: "arduino:cpp"
+    targets:
+      - mkrwifi1010
+      - mkrvidor4000
+      - uno_wifi_rev2
+      - nano_33_iot
+    dependencies:
+      - type: library
+        name: WiFiNINA
+        minVersion: "2.0.1"
+    codegen:
+      imports:
+        - '#include <WiFiNINA.h>'
+      declarations:
+        - "WiFiClient _client;"
+    blocks:
+      # --- Connect ---
+      - blockly:
+          type: wifi_client_connect
+          message0: "client connect to host %1 port %2 using %3"
+          args0:
+            - type: field_input
+              name: HOST
+              text: "example.com"
+            - type: field_number
+              name: PORT
+              value: 80
+              min: 1
+              max: 65535
+              precision: 1
+            - type: field_dropdown
+              name: METHOD
+              options:
+                - ["plain TCP", "connect"]
+                - ["SSL/TLS", "connectSSL"]
+          previousStatement: null
+          nextStatement: null
+          tooltip: "Open a TCP (or SSL/TLS) connection to a server. WiFi must be connected first."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - '_client.{{METHOD}}("{{HOST}}", {{PORT}});'
+
+      # --- Connected? ---
+      - blockly:
+          type: wifi_client_connected
+          message0: "client connected?"
+          output: Boolean
+          tooltip: "True while the TCP client connection is open (or data is still buffered)."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_client.connected()"
+          precedence: ATOMIC
+
+      # --- Print ---
+      - blockly:
+          type: wifi_client_print
+          message0: "client send %1"
+          args0:
+            - type: input_value
+              name: DATA
+          previousStatement: null
+          nextStatement: null
+          tooltip: "Send data to the server (no newline)."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_client.print({{DATA}});"
+          inputDefaults:
+            DATA: '""'
+
+      # --- Println ---
+      - blockly:
+          type: wifi_client_println
+          message0: "client send line %1"
+          args0:
+            - type: input_value
+              name: DATA
+          previousStatement: null
+          nextStatement: null
+          tooltip: "Send data to the server followed by a newline (CR+LF)."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_client.println({{DATA}});"
+          inputDefaults:
+            DATA: '""'
+
+      # --- Available ---
+      - blockly:
+          type: wifi_client_available
+          message0: "client bytes available"
+          output: Number
+          tooltip: "Number of bytes received from the server and waiting to be read."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_client.available()"
+          precedence: ATOMIC
+
+      # --- Read byte ---
+      - blockly:
+          type: wifi_client_read
+          message0: "client read byte"
+          output: Number
+          tooltip: "Read one byte from the server, or -1 if none is available."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_client.read()"
+          precedence: ATOMIC
+
+      # --- Read string ---
+      - blockly:
+          type: wifi_client_read_string
+          message0: "client read all as text"
+          output: String
+          tooltip: "Read all available data from the server as a String (blocks until the stream timeout)."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_client.readString()"
+          precedence: ATOMIC
+
+      # --- Stop ---
+      - blockly:
+          type: wifi_client_stop
+          message0: "client disconnect"
+          previousStatement: null
+          nextStatement: null
+          tooltip: "Close the TCP client connection."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_client.stop();"
+
+---
+# =============================================================================
+# WiFi::TCP Server — accept incoming connections.
+# "accept client" assigns the connection to the shared _client used by the
+# WiFi::TCP Client blocks.
+# =============================================================================
+id: wifinina-tcp-server
+category: "WiFi::TCP Server"
+colour: "#1565C0"
+implementations:
+  - runtime: "arduino:cpp"
+    targets:
+      - mkrwifi1010
+      - mkrvidor4000
+      - uno_wifi_rev2
+      - nano_33_iot
+    dependencies:
+      - type: library
+        name: WiFiNINA
+        minVersion: "2.0.1"
+    codegen:
+      imports:
+        - '#include <WiFiNINA.h>'
+      declarations:
+        - "WiFiClient _client;"
+        - "WiFiServer _server(80);"
+    blocks:
+      # --- Begin ---
+      - blockly:
+          type: wifi_server_begin
+          message0: "start TCP server on port %1"
+          args0:
+            - type: field_number
+              name: PORT
+              value: 80
+              min: 1
+              max: 65535
+              precision: 1
+          previousStatement: null
+          nextStatement: null
+          tooltip: "Start listening for incoming TCP connections on the given port. WiFi must be connected first."
+        tags:
+          - setup
+          - wifi
+        codegen:
+          setup:
+            - "_server.begin({{PORT}});"
+
+      # --- Accept ---
+      - blockly:
+          type: wifi_server_accept
+          message0: "accept incoming client"
+          previousStatement: null
+          nextStatement: null
+          tooltip: "Get the next connected client and make it the active TCP client (used by the client blocks). The client is not connected if none is waiting."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_client = _server.available();"
+
+      # --- Write to all clients ---
+      - blockly:
+          type: wifi_server_print_all
+          message0: "server send to all clients %1"
+          args0:
+            - type: input_value
+              name: DATA
+          previousStatement: null
+          nextStatement: null
+          tooltip: "Send data to every connected client."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_server.print({{DATA}});"
+          inputDefaults:
+            DATA: '""'
+
+---
+# =============================================================================
+# WiFi::UDP — connectionless datagrams.
+# =============================================================================
+id: wifinina-udp
+category: "WiFi::UDP"
+colour: "#1565C0"
+implementations:
+  - runtime: "arduino:cpp"
+    targets:
+      - mkrwifi1010
+      - mkrvidor4000
+      - uno_wifi_rev2
+      - nano_33_iot
+    dependencies:
+      - type: library
+        name: WiFiNINA
+        minVersion: "2.0.1"
+    codegen:
+      imports:
+        - '#include <WiFiNINA.h>'
+      declarations:
+        - "WiFiUDP _udp;"
+    blocks:
+      # --- Begin ---
+      - blockly:
+          type: wifi_udp_begin
+          message0: "start UDP on port %1"
+          args0:
+            - type: field_number
+              name: PORT
+              value: 2390
+              min: 1
+              max: 65535
+              precision: 1
+          previousStatement: null
+          nextStatement: null
+          tooltip: "Start listening for UDP packets on the given local port. WiFi must be connected first."
+        tags:
+          - setup
+          - wifi
+        codegen:
+          setup:
+            - "_udp.begin({{PORT}});"
+
+      # --- Begin packet ---
+      - blockly:
+          type: wifi_udp_begin_packet
+          message0: "begin UDP packet to host %1 port %2"
+          args0:
+            - type: field_input
+              name: HOST
+              text: "192.168.1.1"
+            - type: field_number
+              name: PORT
+              value: 2390
+              min: 1
+              max: 65535
+              precision: 1
+          previousStatement: null
+          nextStatement: null
+          tooltip: "Start composing a UDP packet addressed to a host and port. Add data, then send the packet."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - '_udp.beginPacket("{{HOST}}", {{PORT}});'
+
+      # --- Write ---
+      - blockly:
+          type: wifi_udp_write
+          message0: "add to UDP packet %1"
+          args0:
+            - type: input_value
+              name: DATA
+          previousStatement: null
+          nextStatement: null
+          tooltip: "Append data to the UDP packet being composed."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_udp.print({{DATA}});"
+          inputDefaults:
+            DATA: '""'
+
+      # --- End packet (send) ---
+      - blockly:
+          type: wifi_udp_end_packet
+          message0: "send UDP packet"
+          previousStatement: null
+          nextStatement: null
+          tooltip: "Finish and transmit the composed UDP packet."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_udp.endPacket();"
+
+      # --- Parse packet ---
+      - blockly:
+          type: wifi_udp_parse_packet
+          message0: "UDP packet size"
+          output: Number
+          tooltip: "Check for an incoming UDP packet and return its size in bytes (0 if none). Call before reading."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_udp.parsePacket()"
+          precedence: ATOMIC
+
+      # --- Available ---
+      - blockly:
+          type: wifi_udp_available
+          message0: "UDP bytes available"
+          output: Number
+          tooltip: "Number of bytes remaining to read in the current UDP packet."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_udp.available()"
+          precedence: ATOMIC
+
+      # --- Read ---
+      - blockly:
+          type: wifi_udp_read
+          message0: "UDP read byte"
+          output: Number
+          tooltip: "Read one byte from the current UDP packet, or -1 if none is available."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_udp.read()"
+          precedence: ATOMIC
+
+      # --- Remote IP ---
+      - blockly:
+          type: wifi_udp_remote_ip
+          message0: "UDP sender IP address"
+          output: String
+          tooltip: "IP address (dotted string) of the sender of the current UDP packet."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_ipToString(_udp.remoteIP())"
+          precedence: ATOMIC
+          helpers:
+            ipToString: |
+              String _ipToString(IPAddress ip) {
+                return String(ip[0]) + "." + String(ip[1]) + "." + String(ip[2]) + "." + String(ip[3]);
+              }
+
+      # --- Remote port ---
+      - blockly:
+          type: wifi_udp_remote_port
+          message0: "UDP sender port"
+          output: Number
+          tooltip: "Source port of the sender of the current UDP packet."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_udp.remotePort()"
+          precedence: ATOMIC
+
+      # --- Stop ---
+      - blockly:
+          type: wifi_udp_stop
+          message0: "stop UDP"
+          previousStatement: null
+          nextStatement: null
+          tooltip: "Stop listening for UDP packets and release the socket."
+        tags:
+          - wifi
+        codegen:
+          body:
+            - "_udp.stop();"

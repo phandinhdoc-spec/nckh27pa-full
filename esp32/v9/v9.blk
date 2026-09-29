@@ -1,0 +1,26 @@
+{
+  "blocks": {
+    "languageVersion": 0,
+    "blocks": [
+      {
+        "type": "variables_set_dynamic",
+        "id": "N#Hm~2$ho:Omb7t[*%mz",
+        "x": 180,
+        "y": 167,
+        "fields": {
+          "VAR": {
+            "id": "bzdLRT+Qnoevhhc@*vm1"
+          }
+        }
+      }
+    ]
+  },
+  "variables": [
+    {
+      "name": "MPU_ADDR",
+      "id": "bzdLRT+Qnoevhhc@*vm1",
+      "type": "uint8_t"
+    }
+  ],
+  "backpack": []
+}
